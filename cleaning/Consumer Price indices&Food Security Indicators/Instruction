@@ -1,0 +1,19 @@
+#### This is an introduction file
+# The folder contains data integeration of a. 'ASEAN_Food Security Indicators-raw.csv' , which contains 42 numeric variables collected from https://www.fao.org/faostat/en/#data/FS
+                                           b. 'ASEAN_Consumer Price Indices-raw.csv', which contains 3 numeric variables collected from https://www.fao.org/faostat/en/#data/CP
+
+# 'ASEAN_Food Security Indicators-Consumer Price indices-cleaning-code.ipynb' is the code file records how I processed the raw data. 
+# cleaned up datasets are in 'processed datasets' subfolder:
+'''
+ASEAN_Consumer Price&Food Security Indicators-cleaned.csv     (contains total 10 countries)
+Brunei_Consumer Price&Food Security Indicators.csv
+Cambodia_Consumer Price&Food Security Indicators.csv
+Indonesia_Consumer Price&Food Security Indicators.csv
+Lao_Consumer Price&Food Security Indicators.csv
+Malaysia_Consumer Price&Food Security Indicators.csv
+Myanmar_Consumer Price&Food Security Indicators.csv
+Philippines_Consumer Price&Food Security Indicators.csv
+Singapore__Consumer Price&Food Security Indicators.csv
+Thailand__Consumer Price&Food Security Indicators.csv
+VietNam__Consumer Price&Food Security Indicators.csv
+'''
